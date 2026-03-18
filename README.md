@@ -4,7 +4,7 @@ Welcome to the repository of my personal portfolio website, designed to showcase
 
 ## Live Version 🌐
 
-You can view the live website here: [INSERT LIVE VERCEL LINK HERE]
+You can view the live website here: https://srikanthgondireddy.com/
 
 ## Tech Stack 🛠️
 
@@ -36,7 +36,3 @@ To run this project locally, follow these steps:
     npm run dev
     ```
 4.  Open `http://localhost:5173` in your browser.
-
-## License 📜
-
-This project is open-source and available under the [MIT License](LICENSE).
