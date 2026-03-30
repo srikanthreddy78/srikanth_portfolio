@@ -5,16 +5,22 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
+    title: "SkillSwap - Skill Exchange App",
+    category: "Mobile App / Community Platform",
+    tools: "React Native, Expo, TypeScript, Firebase, .NET, Stripe",
+    image: "/images/skillswap.png",
+  },
+  {
     title: "Ask Docs - AI Chat Bot",
     category: "RAG Pipeline / Chatbot",
     tools: "Python, React, Flask, OpenAI, ChromaDB",
-    image: "/images/Solidx.png",
+    image: "/images/askdocs.png",
   },
   {
     title: "Ecommerce Distributed Redis Cache",
     category: "Distributed Caching",
     tools: "Java, Redis, Spring Boot, Docker, Prometheus",
-    image: "/images/radix.png",
+    image: "/images/redis_cache.png",
   },
 ];
 
