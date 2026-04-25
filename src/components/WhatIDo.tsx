@@ -95,13 +95,13 @@ const WhatIDo = () => {
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
+                <div className="what-tags">React Native</div>
                 <div className="what-tags">Next.js</div>
                 <div className="what-tags">TypeScript</div>
                 <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags">Tailwind CSS</div>
+                <div className="what-tags">Redux</div>
+                <div className="what-tags">GraphQL</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -134,13 +134,13 @@ const WhatIDo = () => {
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">Java</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
+                <div className="what-tags">Spring Boot</div>
                 <div className="what-tags">Python</div>
+                <div className="what-tags">FastAPI</div>
+                <div className="what-tags">Kafka</div>
+                <div className="what-tags">PostgreSQL</div>
+                <div className="what-tags">AWS</div>
+                <div className="what-tags">Microservices</div>
               </div>
               <div className="what-arrow"></div>
             </div>

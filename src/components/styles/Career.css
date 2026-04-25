@@ -42,6 +42,17 @@
   display: flex;
   justify-content: space-between;
   margin-bottom: 50px;
+  padding: 24px 20px;
+  border-radius: 12px;
+  border-left: 3px solid transparent;
+  transition: all 0.35s ease;
+}
+
+.career-info-box:hover {
+  background: rgba(94, 234, 212, 0.03);
+  border-left-color: #14b8a6;
+  transform: translateX(6px);
+  box-shadow: -4px 0 20px rgba(94, 234, 212, 0.08);
 }
 
 .career-info-box p {

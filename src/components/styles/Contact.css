@@ -38,6 +38,13 @@
 a.contact-social {
   font-size: 25px;
   border-bottom: 1px solid #ccc;
+  transition: all 0.3s ease;
+}
+
+a.contact-social:hover {
+  color: var(--accentColor);
+  border-bottom-color: var(--accentColor);
+  text-shadow: 0 0 12px rgba(94, 234, 212, 0.3);
 }
 
 .contact-box h2 {
