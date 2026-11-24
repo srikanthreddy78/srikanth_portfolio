@@ -6,10 +6,11 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am a Software Engineer and Master's in Computer Science graduate from Boston University.
-          With 2+ years of industry experience, I've engineered event-driven microservices processing 1M+ daily 
-          transactions, designed data pipelines saving ~$500K annually, and built full-stack applications 
-          supporting 100K+ users. Passionate about building scalable systems and AI-powered solutions.
+          I am a Founding Engineer at Audora (YC S26) and a Master's in Computer Science graduate from
+          Boston University. I've scaled an AI audiobook rendering pipeline 10x, replaced ElevenLabs with a
+          tuned open model at ~8x lower cost, engineered event-driven microservices processing 100M+ daily
+          transactions, and saved ~$500K a year in search infrastructure. Passionate about building scalable
+          systems and AI-powered solutions.
         </p>
       </div>
     </div>

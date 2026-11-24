@@ -15,13 +15,25 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
+                <h4>Founding Engineer</h4>
+                <h5>Audora (YC S26)</h5>
+              </div>
+              <h3>Sep 2026 -<br />Present</h3>
+            </div>
+            <p>
+              Built evals for speaker identity, emotion accuracy, and speed, then tuned IndexTTS-2.5 to replace ElevenLabs at ~8x lower cost, confirmed with blind listening tests. Fixed the bottlenecks capping the rendering pipeline, scaling it from 100 to 1,000 supported users and cutting render time by ~65%. Split the job dispatcher into its own service and added a GPU priority queue, cutting infrastructure cost per book by ~3x.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
                 <h4>Software Engineer</h4>
                 <h5>Securonix</h5>
               </div>
               <h3>Aug 2023 -<br />Aug 2024</h3>
             </div>
             <p>
-              Engineered event-driven microservices with Spring Boot and Kafka processing 1M+ daily transactions, cutting end-to-end latency by 40%. Designed async data pipelines on AWS (Aurora PostgreSQL, S3, Lambda) boosting throughput by 80% and saving ~$500K annually. Reduced production bugs by 60% via JUnit TDD, SonarQube, and Jenkins CI/CD.
+              Reworked how search queries and indexes were structured from frontend to backend, improving search efficiency by 80% under heavy traffic and saving ~$500K a year in infrastructure. Engineered event-driven microservices with Spring Boot, Kafka, and Solr processing 100M+ daily transactions, cutting end-to-end latency by 40%. Built a React, Redux, and GraphQL PWA that loads 30% faster.
             </p>
           </div>
           <div className="career-info-box">
@@ -33,7 +45,7 @@ const Career = () => {
               <h3>Jul 2022 -<br />Aug 2023</h3>
             </div>
             <p>
-              Built full-stack features with React and Python/Java REST APIs on AWS supporting 100K+ users, independently owning architecture to deployment. Slashed API response time by 65% and accelerated application startup by 12% through Spring Boot performance tuning and lazy initialization.
+              Owned full-stack development of key modules in a consumer-facing service request portal built with React, Node.js, and MongoDB, supporting 100K+ users and reducing infrastructure costs by 30%. Tuned Spring Boot and Hibernate data access using Actuator metrics, cutting API response time by 25%.
             </p>
           </div>
           <div className="career-info-box">
